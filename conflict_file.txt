@@ -1,5 +1,2 @@
-
-
-Content from branch A
-Commit and push branchA:
+Content from branch A and B merged successfully
 
