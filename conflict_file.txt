@@ -1,1 +1,2 @@
-Initial content in main
+Content from branch A
+Content from branch B
